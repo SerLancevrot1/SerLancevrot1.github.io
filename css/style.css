@@ -1,0 +1,95 @@
+*{
+	margin: 0;
+}
+body{
+	
+	background-image: url(https://www.hdqwalls.com/download/amazing-view-from-here-4k-rn-1336x768.jpg);
+}
+.head  {
+	display: inline-block;
+	line-height: 4;
+	font-family: ALGERIAN;
+	font-weight : 900;
+		margin:0 250px;
+	font-size:28px;
+	color: blue;
+}
+.menu{
+	display: inline-block;
+		
+line-height: 4;
+}
+.pod-menu{
+	text-transform: uppercase;
+	margin: 0 30px;
+	display: inline-block;		
+}
+
+
+.header	{
+	font-size: 60px;
+	font-family: ALGERIAN;
+	padding: 40px;
+    background-color:rgba(255,126,126, 0.5);
+	text-align: center;
+	display: block;
+	text-transform: uppercase;
+	margin: 150px 350px 0 350px ;
+}
+.text{
+	font-family: century schoolbook;
+	margin-top: 40px;
+	text-transform: uppercase;
+	font-weight: 900;
+	text-align: center;
+	color: #fff;
+	font-size: 30px;
+}
+.text1{
+	margin-top: 20px;
+	font-family: Bradley Hand, cursive;
+	text-transform: uppercase;
+	font-weight: 900;
+	text-align: center;
+	font-size: 30px;
+	color: #fff
+}
+.center{
+	text-align: center;
+}
+.button{
+	color: #fff;
+	text-transform: uppercase;
+	font-family:century schoolbook;
+	margin-top: 60px;
+	padding: 7px;
+	font-size: 30px;
+	background: transparent;
+	margin-bottom: 70px;
+}
+.bg{
+	background-color: #cbe2ff;
+}
+.about{
+	margin-left:  100px;
+	font-family: URW Chancery L, cursive;
+	font-size: 100px;
+	text-transform: uppercase;
+	display: inline-block;
+}
+.soj{
+	font-family: URW Chancery L, cursive;
+	font-size: 20px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 30px;
+	margin-top: 50px;
+}
+.cartoon{
+	margin-left: 145px;
+	margin-top: 150px;
+	display: inline-block;
+	font-family: Snell Roundhand, cursive;
+	font-size: 20px;
+	margin-bottom: 200px;
+}
