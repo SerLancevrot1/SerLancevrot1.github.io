@@ -1,0 +1,19 @@
+
+
+.test{
+
+	transition: 3s all;
+	margin: 0 auto;	
+	margin-top: 300px;	
+	background-color: #aeaeae;
+	border: 3px solid red;
+	border-radius: 15px;
+	height: 50px;
+	width: 150px;
+	padding: 30px;
+}
+
+.test.hover{
+	transform: rotate3d(30deg);
+	background-color: #979686; 
+}
