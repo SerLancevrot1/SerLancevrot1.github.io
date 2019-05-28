@@ -1,0 +1,36 @@
+*		{
+	margin: 0;	
+	padding: 	0;
+   box-sizing: 	border-box;
+}
+body{
+	padding: 20px;
+}
+.container{
+	margin: 0 auto;	
+}
+.firsts ,.projects {
+	text-align: center;
+}
+/*создаем отдельный класс для подклассов чтобы выравнивать по центу*/
+.head{
+	background-color: #aeaeae;
+	width: 1200px;	
+	height: 200px;	
+	margin: 0 auto	;	
+}
+.first{
+	background-color: #eae;
+	width: 250px;	
+	height: 200px;	
+	display: inline-block;	
+	margin: 5px;
+	font-size: 0	
+}
+.proj{
+	width: 333px;	
+	height: 200px;	
+	background-color: #999432;
+	display: inline-block;
+	margin: 0 7px;	
+}

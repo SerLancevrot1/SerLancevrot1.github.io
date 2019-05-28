@@ -1,0 +1,38 @@
+.conrainer{
+	min-width: 1200px;
+}
+.head{
+	width: 100%;
+}
+.firsts{
+	width: 100%
+}
+.first{
+	width: 22%;
+}
+.proj{
+	width: 30%;
+}
+
+@media only screen and (max-width: 1000px){
+	
+	}
+	.first{
+		background-color: #fff700;
+		width: 23%;	
+	}
+	.proj{
+		background-color: #d10010;
+		width: 30%;	
+	}
+@media only screen and (max-width: 600px){
+	
+	}
+	.first{
+		background-color:#e100d9;
+		width: 100%;	
+	}
+	.proj{
+		background-color: #8cbb;
+		width: 90%;	
+	}
