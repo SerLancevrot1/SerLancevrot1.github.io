@@ -1,0 +1,305 @@
+@import url(css/mrseavesot-italic.css);
+@import url(segoewpn.css);
+*{
+	
+	margin: 0;
+	padding: 0;
+}
+ 
+ body {
+ 	background-image: url("img/Layer39.png");
+	-webkit-background-size: 	100%;
+	background-size: 	100% ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	z-index: -1;
+ }
+
+ .main-menu{
+ 	margin-top: 59px;	
+ 	
+ }
+ .abc{
+	margin: 0 auto;		
+ 	
+ 	width: 1024px;
+ }
+ .logo{
+ 	color:#c4cdd0;
+margin-right: 192px;	
+ 	display: inline-block;	
+ font-size: 118px;
+ line-height: 	33px;
+ font-family: 'MrsEavesItalic';
+
+ }
+ nav{
+ 	
+ 	position: relative;
+ 	bottom: 	50px;
+ 	font-size: 22px;
+ 	font-family: 'SegoeWPN';
+ 	margin-top: 59px;	
+ 	display: inline-block;
+
+ }
+ nav li{
+
+ 	display: inline-block;
+ 	margin-right: 50px;		
+ }
+
+ nav li a {
+ 		color:#c4cdd0;
+ 	text-decoration: none;
+ }
+ .icon {
+ 	vertical-align: top;
+ 	display: inline-block;
+ 	margin-top: 69px;
+ 	margin-left: 50px;
+ 	
+ 	padding-bottom: -500px;
+ 	z-index: 500;
+ }
+ .intro{
+	
+ 	display: inline-block;
+ 	bottom: 200px;
+ 	margin-top: 69px;
+ 	margin-left: 	7%;
+ 	font-size: 55px;
+ 	font-weight: 100;
+  line-height: 1.2;
+ font-family: 'SegoeWPN';
+ color: rgb(255, 255, 255);
+ }
+ .intro span {
+ 	font-size: 41px;
+ }
+ 
+ .intro span:hover {
+ 	border: 2px solid #aeae;
+ }
+
+ .btn {
+ 	
+  border-style: solid;
+  border-width: 4px;
+  border-color: #343735;
+  background-color: #2b7551; 
+  width: 142px;
+  height: 42px;
+  color: #fff;
+  font-size: 22px;
+}
+
+.container{
+
+ position: relative;
+	bottom: 65px;
+	background-color: #fff ;
+	width: 100%;
+	z-index: -100;
+}
+
+.responsive {
+	text-align: center;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+	
+	border: 1px solid #fff;
+	padding: 94px 51px 52px 51px;
+	
+}
+
+
+.border{
+	border: 1px solid #aeae;
+}
+
+.ipad{
+	
+	text-align: center;
+	padding: 57px 0;
+}
+
+.lorem{
+	padding-bottom: 100px;
+	float: left;
+	font-family: 'SegoeWPN';
+}
+
+.lorem h1{
+	font-size: 38px;
+margin-bottom: 43px;	
+}
+
+.lorem p {
+	font-size: 14px;
+	margin-bottom: 43px;
+}
+
+.why{
+	display: inline-block;
+}
+
+	.www {
+		padding-left: 50px;
+			font-family: 'SegoeWPN';
+		vertical-align: top;
+		display: inline-block;
+	}
+.www p{
+	padding: 13px 14px;
+}
+.www img { margin-right:   12px; }
+
+
+.www span { font-size: 33px; margin-bottom: 33px; }
+
+form{
+	display: inline-block;
+	vertical-align: top;
+	border-radius: 10px;
+	margin-top: 100px;
+	margin-left: 15px;
+	margin-right: 25px;
+	background-color: #e67624;
+	width: 470px;
+	height: 120px;
+	font-family: 'SegoeWPN';
+}
+
+.form{
+	display: inline-block;
+	vertical-align: top;
+	border-radius: 10px;
+	margin-top: 100px;
+	margin-left: 15px;
+	margin-right: 25px;
+	font-family: 'SegoeWPN';
+	background-color: #01d4f3;
+	width: 470px;
+	height: 120px;
+}
+
+form p{
+	font-size: 28px;
+	padding: 16px 28px;
+	color: #fff;
+}
+
+.form p{
+	font-size: 25px;
+	padding: 16px 28px;
+	color: #fff;
+	}
+
+form input  {
+		font-family: 'SegoeWPN';
+	font-size: 14px;
+	padding: 0px 10px;
+	width: 115px;
+	height: 26px;
+	margin: 0px 10px;
+}
+
+.form input  {
+	font-family: 'SegoeWPN';
+	font-size: 14px;
+	padding: 0px 10px;
+	width: 200px;
+	height: 26px;
+	margin: 0px 30px;
+}
+ form .btn-2 {
+ 		font-family: 'SegoeWPN';
+ 	background-color: rgb(68, 68, 68);
+ 	border: none;
+	font-size: 14px;
+	padding: 5px 10px;
+	width: 120px;
+	height: 38px;
+}
+
+.form .btn-2 {
+		font-family: 'SegoeWPN';
+	background-color: rgb(2, 155, 177);
+	border: none;
+	float: right;
+	margin-right: 35px;
+	font-size: 14px;
+	padding: 5px 10px;
+	width: 120px;
+	height: 38px;
+}
+
+.foot{
+			
+		font-family: 'SegoeWPN';
+	color: #fff;
+	background-image: url("img/37.png");
+	background-size: 	100% ;
+	background-size: cover;
+	z-index: 1000;
+}
+
+.about {
+display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		justify-content: space-between;
+	
+
+}
+
+.about p {
+
+	margin-top: 34px;
+	margin-bottom: 25px;	
+	font-size: 25px;
+	line-height: 33px;
+
+}
+
+.about ul{
+	color: 	#919291;
+	list-style-type: none;
+	font-size: 17px;	
+	line-height: 30px;	
+	margin-bottom: 40px;	
+}
+
+.about div{
+	width: 300px;	
+	
+}
+
+.about span{
+color: 	#919291;	
+}
+
+.about h4{
+	margin-top: 15px;	
+	color: #c8c8c8;
+}
+
+
+.logo-2{
+ 	color:#c4cdd0;
+	
+ margin: 	70px 0 0 100px;			
+ font-size: 118px;
+ 
+ font-family: 'MrsEavesItalic';
+
+ }
+
+
