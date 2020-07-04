@@ -1,2 +1,2 @@
 # SerLancevrot1.github.io
-first
+Первое поползновение в IT. Громко не смеяться. 
